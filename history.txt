@@ -3,3 +3,5 @@ https://jangjjolkit.tistory.com/55 직접 해보기 / 2024.09.06
 mariadb
 root/maria
 user1/user1
+
+sts에 lombok 설치 필요해요!
